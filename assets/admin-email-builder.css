@@ -1,0 +1,106 @@
+#postdivrich{
+	display: none; /* JS toggle will display this */
+}
+#wpdevnews-email-builder{
+	display: none; /* JS toggle will display this */
+	margin: 20px 0;
+}
+/* Templates */
+.wpdevnews-templates{
+	display: none;
+}
+/* Rows */
+.wpdevnews-rows{
+	margin-bottom: 30px;
+}
+.wpdevnews-rows-message{
+	border: 2px dashed #ccc;
+	padding: 10px 20px;
+	text-align: center;
+}
+/* Buttons */
+.wpdevnews-actions{
+	margin-bottom: 30px;
+}
+/* Row */
+.wpdevnews-row{
+	font-size: 16px;
+	border: 1px solid #ccc;
+	background: #fff;
+	margin-bottom: 20px;
+}
+	/* Sortable Placeholder */
+	.wpdevnews-row.ui-sortable-placeholder{
+		border: 1px dashed #ccc;
+		visibility: visible !important;
+		background: transparent;
+	}
+.wpdevnews-row-title{
+}
+.wpdevnews-row-title:after{
+	content:".";display:block;height:0;clear:both;visibility:hidden;
+}
+.wpdevnews-handle{
+	padding: 10px;
+	border-right: 1px solid #ccc;
+	cursor: grab;
+}
+	.wpdevnews-handle:hover{
+	}
+.wpdevnews-order{
+	background: #efefef;
+	color: #aaa;
+	border: 1px solid #ccc;
+	border-radius: 50%;
+	display: inline-block;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: normal;
+	height: 20px;
+	line-height: 1;
+	margin-top: 5px;
+	padding: 5px 6px;
+	text-align: center;
+	text-decoration: inherit;
+	vertical-align: top;
+	width: 20px;
+}
+.wpdevnews-row-title-text{
+	padding: 12px 10px 9px 0;
+	display: inline-block;
+}
+.wpdevnews-remove{
+	padding: 10px;
+	border-left: 1px solid #ccc;
+	float: right;
+	cursor: pointer;
+}
+.wpdevnews-remove:hover{
+	background: red;
+	color: #fff;
+}
+.wpdevnews-row-fields{
+	border-top: 1px solid #ccc;
+	padding: 10px;
+}
+.wpdevnews-row-fields:after{
+	content:".";display:block;height:0;clear:both;visibility:hidden;
+}
+.wpdevnews-row-fields textarea{
+	width: 100%;
+	height: 100px;
+}
+/* 1 column template */
+.wpdevnews-col-1{
+}
+/* 2 columns template */
+.wpdevnews-col-2{
+}
+.wpdevnews-col-2 .wpdevnews-col-2-left{
+	width: 49%;
+	float: left;
+}
+.wpdevnews-col-2 .wpdevnews-col-2-right{
+	width: 49%;
+	float: right;
+}

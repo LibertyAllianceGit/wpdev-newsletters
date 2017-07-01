@@ -1,0 +1,60 @@
+.wrap.wpdev-newsletter-wrap {
+    background: #fff;
+    padding: 1.5rem 2rem;
+    margin-top: 1.2rem;
+    border-radius: 6px;
+}
+
+.wrap.wpdev-newsletter-wrap p {
+    font-size: 18px;
+}
+
+.wrap.wpdev-newsletter-wrap th {
+    color: #2c3e50;
+    font-weight: bold;
+}
+
+.wrap.wpdev-newsletter-wrap h2 {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    color: #18bc9c;
+}
+
+.wrap.wpdev-newsletter-wrap table.form-table {
+    border-bottom: 1px solid rgba(44, 62, 80, 0.2);
+    padding-bottom: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.wrap.wpdev-newsletter-wrap input[type=text], .wrap.wpdev-newsletter-wrap textarea {
+    width: 100%;
+}
+
+.wrap.wpdev-newsletter-wrap input#submit {
+    background: #18bc9c;
+    border-color: #139178;
+    text-shadow: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+}
+
+.wrap.wpdev-newsletter-wrap input#submit:hover {
+    background: #2c3e50;
+    border-color: #1f2c38;
+}
+
+.wrap.wpdev-newsletter-wrap input, .wrap.wpdev-newsletter-wrap textarea {
+    outline-color: #18bc9c;
+    border: 1px solid rgba(44, 62, 80, 0.2);
+}
+
+.wpdev-newsletter-wrap code {
+    font-size: 18px;
+    color: #2c3e50;
+    padding: 5px;
+    font-weight: bold;
+}

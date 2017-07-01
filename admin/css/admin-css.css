@@ -1,0 +1,56 @@
+.wrap.wpdev-newsletter-wrap {
+    background: #fff;
+    padding: 1.5rem 2rem;
+    margin-top: 1.2rem;
+    border-radius: 6px;
+}
+
+.wrap.wpdev-newsletter-wrap p {
+    font-size: 18px;
+}
+
+.wrap.wpdev-newsletter-wrap th {
+    color: #2c3e50;
+    font-weight: bold;
+}
+
+.wrap.wpdev-newsletter-wrap h2 {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    color: #18bc9c;
+}
+
+.wrap.wpdev-newsletter-wrap table.form-table {
+    border-bottom: 1px solid rgba(44, 62, 80, 0.2);
+    padding-bottom: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.wrap.wpdev-newsletter-wrap input[type=text], .wrap.wpdev-newsletter-wrap textarea {
+    width: 100%;
+}
+
+.wrap.wpdev-newsletter-wrap input#submit {
+    background: #18bc9c;
+    border-color: #139178;
+    text-shadow: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+}
+
+.wrap.wpdev-newsletter-wrap input#submit:hover {
+    background: #2c3e50;
+    border-color: #1f2c38;
+}
+
+.wrap.wpdev-newsletter-wrap input, .wrap.wpdev-newsletter-wrap textarea {
+    outline-color: #18bc9c;
+    border: 1px solid rgba(44, 62, 80, 0.2);
+}
+
+/* Switches */
+.ios-ui-select{border:none;height:36px;background:#ddd;-webkit-border-radius:18px;border-radius:18px;width:60px;-webkit-transition:all .3s ease-in-out;-moz-transition:all .3s ease-in-out;-ms-transition:all .3s ease-in-out;-o-transition:all .3s ease-in-out;transition:all .3s ease-in-out;-webkit-box-shadow:none;box-shadow:none;cursor:pointer;position:relative;display:inline-block}.ios-ui-select.checked{-webkit-box-shadow:inset 0 0 0 36px #3A9552;box-shadow:inset 0 0 0 36px #3A9552}.ios-ui-select.checked .inner{left:27px}.ios-ui-select .inner{width:30px;height:30px;position:absolute;top:3px;left:3px;-webkit-border-radius:100%;border-radius:100%;background:#fff;-webkit-transition:all 350ms cubic-bezier(0,.89,.44,1);-moz-transition:all 350ms cubic-bezier(0,.89,.44,1);-o-transition:all 350ms cubic-bezier(0,.89,.44,1);transition:all 350ms cubic-bezier(0,.89,.44,1);-webkit-box-shadow:0 1px 2px 0 rgba(0,0,0,.2),0 3px 4px 0 rgba(0,0,0,.1);box-shadow:0 1px 2px 0 rgba(0,0,0,.2),0 3px 4px 0 rgba(0,0,0,.1)}
