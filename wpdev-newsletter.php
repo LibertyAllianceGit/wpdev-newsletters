@@ -3,7 +3,7 @@
 Plugin Name: WP Developers | Newsletter
 Plugin URI: http://wpdevelopers.com
 Description: Set up newsletter templates quickly, easily and painlessly.
-Version: 1.2.2
+Version: 1.2.3
 Author: Tyler Johnson
 Author URI: http://tylerjohnsondesign.com/
 Copyright: Tyler Johnson

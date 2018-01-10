@@ -26,6 +26,9 @@ Hello there! I'm an awesome plugin that allows you to easily embed sign-up forms
 
 == Changelog ==
 
+= 1.2.3 =
+* PHP7 compatibility fix.
+
 = 1.2.2 =
 * Plugin release.
 
